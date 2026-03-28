@@ -1,5 +1,5 @@
 ---
-**KPI Assessment Form**
+KPI Assessment Form
 **Date:** ________________  |  **Assessor:** ________________  |  **Candidate:** ________________
 
 ---
