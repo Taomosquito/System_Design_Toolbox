@@ -23,32 +23,32 @@ Rate each category on a scale of 1-5:
 | | Steps Taken Match Label | ☐ ☐ ☐ ☐ ☐| |
 | |
 | 2 | Completeness | ___ / 15 | |
-| | Subcategory_2A | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_2B | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_2C | ☐ ☐ ☐ ☐ ☐| |
+| | Steps Taken Match Solution | ☐ ☐ ☐ ☐ ☐| |
+| | Counterproductive Steps Skipped | ☐ ☐ ☐ ☐ ☐| |
+| | Explanation For Steps Taken | ☐ ☐ ☐ ☐ ☐| |
 | |
 | 3 | Documentation Adherance | ___ / 15 | |
-| | Subcategory_3A | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_3B | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_3C | ☐ ☐ ☐ ☐ ☐| |
+| | Followed Steps Listed In Documentation | ☐ ☐ ☐ ☐ ☐| |
+| | Counterproductive Steps Skipped | ☐ ☐ ☐ ☐ ☐| |
+| | Resolution Specifics Documented | ☐ ☐ ☐ ☐ ☐| |
 | |
 | 4 | Verbosity | ___ / 15 | |
-| | Subcategory_4A | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_4B | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_4C | ☐ ☐ ☐ ☐ ☐| |
+| | No Missing Specifics | ☐ ☐ ☐ ☐ ☐| |
+| | No Misleading Details | ☐ ☐ ☐ ☐ ☐| |
+| | Examples Given | ☐ ☐ ☐ ☐ ☐| |
 | |
 | 5 | Next Steps | ___ / 15 | |
-| | Subcategory_5A | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_5B | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_5C | ☐ ☐ ☐ ☐ ☐| |
+| | No Missing Specifics | ☐ ☐ ☐ ☐ ☐| |
+| | No Misleading Details | ☐ ☐ ☐ ☐ ☐| |
+| | Examples Given | ☐ ☐ ☐ ☐ ☐| |
 | |
 | 6 | Documentation Review | ___ / 15 | |
-| | Subcategory_5A | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_5B | ☐ ☐ ☐ ☐ ☐| |
-| | Subcategory_5C | ☐ ☐ ☐ ☐ ☐| |
+| | Steps Taken Align | ☐ ☐ ☐ ☐ ☐| |
+| | Next Steps Align | ☐ ☐ ☐ ☐ ☐| |
+| | Labels Align | ☐ ☐ ☐ ☐ ☐| |
 ---
 
-**Overall Score:** _____ / 50  |  **Performance Level:** ☐ Red ☐ Yellow ☐ Green
+**Overall Score:** _____ / 90  |  **Performance Level:** ☐ Red ☐ Yellow ☐ Green
 
 **Summary Notes:**
 
