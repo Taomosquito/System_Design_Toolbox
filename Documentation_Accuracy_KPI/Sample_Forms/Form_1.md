@@ -27,7 +27,7 @@ Rate each category on a scale of 1-5:
 | | Counterproductive Steps Skipped | ☐ ☐ ☐ ☐ ☐| |
 | | Explanation For Steps Taken | ☐ ☐ ☐ ☐ ☐| |
 | |
-| 3 | Documentation Adherance | ___ / 15 | |
+| 3 | Documentation Adherence | ___ / 15 | |
 | | Followed Steps Listed In Documentation | ☐ ☐ ☐ ☐ ☐| |
 | | Counterproductive Steps Skipped | ☐ ☐ ☐ ☐ ☐| |
 | | Resolution Specifics Documented | ☐ ☐ ☐ ☐ ☐| |
