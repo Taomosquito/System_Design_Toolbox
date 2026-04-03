@@ -46,6 +46,7 @@ Rate each category on a scale of 1-5:
 | | Steps Taken Align | ☐ ☐ ☐ ☐ ☐ | △ |
 | | Next Steps Align | ☐ ☐ ☐ ☐ ☐ | △ |
 | | Labels Align | ☐ ☐ ☐ ☐ ☐ | △ |
+| |
 ---
 
 **Overall Score:** _____ / 90  |  **Performance Level:** ☐ Red ☐ Yellow ☐ Green
