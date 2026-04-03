@@ -15,7 +15,7 @@ Rate each category on a scale of 1-5:
 - **NA** = Not Applicable(-5 Total)
 ---
 
-| # | Category | Rating (1-5) | Not Applicable | Notes |
+| # | Category | Rating (1-5) | N/A | Notes |
 |---|---|:---------:|---|---|
 | 1 | Problem Identification | ___ / 15 | 
 | | Solution Matches Problem | ☐ ☐ ☐ ☐ ☐ | △ |
