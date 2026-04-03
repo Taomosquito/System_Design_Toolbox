@@ -16,7 +16,7 @@ Rate each category on a scale of 1-5:
 ---
 
 | # | Category | Rating (1-5) | Not Applicable | Notes |
-|---|---|:---------:|:---:|---|
+|---|---|:---------:|---|---|
 | 1 | Problem Identification | ___ / 15 | 
 | | Solution Matches Problem | ☐ ☐ ☐ ☐ ☐ | △ |
 | | Precise Labelling | ☐ ☐ ☐ ☐ ☐ | △ |
