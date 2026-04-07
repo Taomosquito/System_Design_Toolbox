@@ -1,4 +1,4 @@
-# System 3: Threshold-Based Finite State Machines
+# System 3:
 
 ## Core Principle
 
