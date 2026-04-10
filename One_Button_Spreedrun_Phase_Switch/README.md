@@ -1,4 +1,4 @@
-# System 3:
+# One Button Speedrun Phase Switch
 
 ## Core Principle
 
