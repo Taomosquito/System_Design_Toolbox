@@ -1,5 +1,5 @@
 ## Core Principle
-Negating Goodharts Law With Metric Design
+Optimal Signal To Noise Ratio Metric Design
 
 ## Definition
 This works by treating documentation as a source to compare actual actions against.
